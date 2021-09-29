@@ -39,3 +39,66 @@ Work experience
 
 * Junior Web Developer at U75, August 2005 - June 2007.
   * Developed Flash websites and ads.
+
+Training
+======
+* Kaggle Micro-Courses, 2020.
+* Second Data Science Summer School (DS3) at École Polytechnique, June 2018.
+* Deep Learning Specialization at Coursera with Andrew Ng, February 2018.
+* International Summer School on Deep Learning 2017 at Universidad de Deusto, July 2017.
+* 3rd International Winter School on Big Data at Università degli Studi di Bari, February 2017.
+* Escuela de Ciencias Informáticas (ECI) (winter school) at UBA, July 2014, 2015 and 2016.
+* Machine Learning at Coursera with Andrew Ng, December 2013.
+
+Skills
+======
+* Programming Languages:
+  * Preferred: Python.
+  * Moderate Experience: Java, PHP, Javascript, HTML, CSS.
+  * University projects: C, C++, C#, objective-c, Haskell, Smalltalk, R, MATLAB, Octave, Scala, Lua.
+
+* Machine Learning, Deep Learning, Data Science:
+  * pytorch
+  * tensorflow
+  * keras
+  * numpy
+  * scikit-learn
+  * pandas
+  * matplotlib
+  * jupyter
+  * Weka
+
+* Natural Language Processing, Scrapping & Parsing:
+  * NLTK
+  * Gensim
+  * Stanford CoreNLP
+  * Scrapy
+  * spaCy
+  * ply
+  * lex
+  * yacc
+
+* Game development:
+  * Flash
+  * Unity3D
+  * Godot
+
+* Web development:
+  * jQuery
+  * AngularJS
+  * Twitter Bootstrap
+  * Flask
+
+* General Development
+  * OOP
+  * design patterns
+  * basic database knowledge
+  * development processes
+  * version control
+
+* Languages
+  * Spanish: native
+  * English: fluent
+  * French: medium level
+  * Italian: beginner
+  * Luxembourgish: beginner
