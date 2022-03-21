@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Analista Universitario en Computación, Universidad de Buenos Aires, 2013
-* Licenciado en Ciencias de la Computación, Universidad de Buenos Aires, 2016
 * Docteur en Informatique, Université du Luxembourg, 2020
+* Licenciado en Ciencias de la Computación, Universidad de Buenos Aires, 2016
+* Analista Universitario en Computación, Universidad de Buenos Aires, 2013
 
 Work experience
 ======
