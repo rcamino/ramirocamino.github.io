@@ -17,6 +17,11 @@ Education
 
 Work experience
 ======
+* Postdoc at LIST, October 2020 - Present.
+  * MODALES Project: Responsible for the development and deployment of a mobile app that collects information from the device sensors and from the vehicle on-board diagnosis (OBD). The goal of the application is to offer recommendations to correct the driver behavior towards the reduction of vehicle emissions. I developed the app in Flutter, using also Kotlin and Swift, and it includes an implementation of the ELM327 protocol for communicating with the CAN bus through OBD dongles. I am also responsible for the development of a REST api, the database administration and the integration with external services. I also participate in weekly meetings with the project consortium and contributed in the writing of project deliverables and research publications.
+  * 5G-EMIT Project: Contributed in the writing of project deliverables and research publications related to the assessment of 5G EMF emissions.
+  * 5G-PLANET Project: Responsible of a platooning demo involving small robot cars and deep learning.
+
 * Research & Development Engineer at Avature, April 2015 - September 2016.
   * Developed and maintained a resume parsing tool using natural language processing and machine learning.
   * Interacted with other teams, analyzing their data and developing information retrieval tools.
